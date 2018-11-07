@@ -2,15 +2,29 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew ansible
+brew awscli
+brew gdbm
 brew htop
+brew kubernetes-cli
+brew kubernetes-helm
+brew libyaml
 brew mas
+brew openssl
+brew packer
+brew python
+brew readline
+brew sqlite
+brew terraform
+brew xz
 
 tap homebrew/cask
 cask 1password
 cask docker
 cask firefox
-cask hyper
-cask iterm2
+cask google-cloud-sdk
+cask istat-menus
+cask minikube
 cask visual-studio-code
 
 tap rcmdnk/file
@@ -20,7 +34,8 @@ brew brew-file
 cask amethyst
 cask etcher
 cask google-chrome
-cask istat-menus
+cask hyper
+cask iterm2
 cask spotify
 
 # App Store applications
