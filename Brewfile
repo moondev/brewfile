@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew htop
 brew mas
 
 tap homebrew/cask
