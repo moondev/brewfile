@@ -7,20 +7,21 @@ brew mas
 
 tap homebrew/cask
 cask 1password
-cask etcher
-cask google-chrome
-cask istat-menus
-cask spotify
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Cask applications
 cask docker
 cask firefox
 cask hyper
 cask iterm2
 cask visual-studio-code
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Cask applications
+cask amethyst
+cask etcher
+cask google-chrome
+cask istat-menus
+cask spotify
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
