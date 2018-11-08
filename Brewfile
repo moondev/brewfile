@@ -10,6 +10,7 @@ brew kubernetes-cli
 brew kubernetes-helm
 brew libyaml
 brew mas
+brew ncurses
 brew openssl
 brew packer
 brew python
@@ -17,6 +18,7 @@ brew readline
 brew sqlite
 brew terraform
 brew xz
+brew zsh
 
 tap homebrew/cask
 cask 1password
