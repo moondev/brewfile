@@ -27,7 +27,7 @@ cask firefox
 cask google-cloud-sdk
 cask istat-menus
 cask minikube
-cask visual-studio-code
+cask vagrant
 
 tap rcmdnk/file
 brew brew-file
@@ -39,6 +39,7 @@ cask google-chrome
 cask hyper
 cask iterm2
 cask spotify
+cask visual-studio-code
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
